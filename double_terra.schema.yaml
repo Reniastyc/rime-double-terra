@@ -67,7 +67,7 @@ speller:
     - xform/[iu]a([12345])$/W$1/
     - xform/[uv]an([12345])$/R$1/
     - xform/[uv]e([12345])$/T$1/
-    - xform/ing([12345])$|uai$/Y$1/
+    - xform/ing([12345])$|uai([12345])$/Y$1/
     - xform/^sh/U/
     - xform/^ch/I/
     - xform/^zh/V/
